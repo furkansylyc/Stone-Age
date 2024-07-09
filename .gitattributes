@@ -1,2 +1,2 @@
-*.csharp linguist-detectable=true
-*
+# Auto detect text files and perform LF normalization
+* text=csharp
